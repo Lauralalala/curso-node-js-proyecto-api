@@ -1,4 +1,5 @@
 # Logs
+mongodb-data
 logs
 *.log
 npm-debug.log*
@@ -35,6 +36,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+test/
 
 # TypeScript v1 declaration files
 typings/
